@@ -1,0 +1,6 @@
+name: SpigotPlus
+version: '${project.version}'
+main: com.collidacube.plugins.spigotplus.SpigotPlus
+api-version: 1.19
+depend: [ Vault ]
+authors: [ CollidaCube ]
